@@ -1,20 +1,21 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=Tharun%20Chandra%20Lingala%20|%20Full%20Stack%20Developer&fontSize=24&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20Chandra%20Lingala&fontSize=28&fontColor=ffffff"/>
 </p>
 
+<!-- ================= TYPING INTRO ================= -->
 <p align="center">
-  Full-Stack Developer | Backend + Real-Time Systems
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Builder;Real-Time+System+Enthusiast;Building+Scalable+Web+Apps" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Tharun Chandra Lingala
+# 👋 Hi, I'm Tharun
 
-I’m a full-stack developer focused on building real, usable web applications.
+I’m a full-stack developer focused on building real-world web applications that are simple, scalable, and useful.
 
-I mostly work on:
+I usually work on:
 - backend-heavy systems  
 - real-time applications  
 - full-stack products with practical use cases  
@@ -23,10 +24,10 @@ I mostly work on:
 
 # 🧠 Current Focus
 
-- System design basics  
-- DSA (pattern-based problem solving)  
+- System design fundamentals  
+- DSA using patterns  
 - Backend architecture  
-- Building scalable full-stack apps  
+- Building scalable SaaS-style apps  
 
 ---
 
@@ -35,7 +36,7 @@ I mostly work on:
 ### ⚡ aiMagix
 AI image generation platform.
 
-- Gemini API for prompt improvement  
+- Gemini API for prompt enhancement  
 - Google & GitHub authentication  
 - User-based image history  
 - Download system  
@@ -107,8 +108,8 @@ Git • Docker (basic) • Vercel • Railway • Postman
 # 🎯 What I Focus On
 
 - writing clean and maintainable code  
-- understanding system design concepts  
-- building real-world full-stack apps  
+- understanding how systems scale  
+- building real-world full-stack applications  
 - improving problem-solving skills  
 
 ---
@@ -123,4 +124,4 @@ Git • Docker (basic) • Vercel • Railway • Postman
 
 # ⚡ Note
 
-I learn best by building things, breaking them, and fixing them again.
+I learn best by building things, breaking them, and improving them over time.
