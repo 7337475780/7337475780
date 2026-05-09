@@ -1,65 +1,60 @@
 
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20|%20Full%20Stack%20Builder&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun Chandra Lingala%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Tharun
+# 👋 Hi, I'm Tharun Chandra Lingala
 
-🚀 Full-Stack Developer | System Builder | Backend-Oriented Engineer
-
----
-
-## ⚡ What I Do (Simple + Clear)
-
-I build full-stack web applications that focus on:
-- Real-time communication
-- Scalable backend design
-- Clean user experience
-- AI-powered features
-
-I prefer building systems that feel fast, simple, and production-ready.
+🚀 Full-Stack Developer | Backend-Focused Builder | System Design Learner
 
 ---
 
-## 🧠 How I Think
+## 🧩 About Me
 
-- Break features into independent modules
-- Design backend APIs before UI
-- Focus on data flow instead of just UI
-- Optimize for simplicity + scalability
+I’m a full-stack developer focused on building scalable and production-ready web applications.
+
+I enjoy working on:
+- Real-time applications
+- Backend-heavy systems
+- Full-stack AI integrations
+
+Currently improving:
+- System design fundamentals
+- DSA (pattern-based problem solving)
+- Backend architecture & scalability
 
 ---
 
-## 🚀 Projects (System View)
+## 🚀 Projects
 
-### ⚡ aiMagix — AI Image Platform
-AI-powered full-stack application.
+### ⚡ aiMagix — AI Image Generator
+Full-stack AI-powered platform.
 
-- Prompt enhancement using Gemini API
+- Gemini API for prompt enhancement
 - OAuth authentication (Google, GitHub)
-- User-based image history system
-- Download + storage pipeline
+- User image history system
+- Download & storage workflow
 
 ---
 
-### 💬 WeConnect — Real-Time Chat System
-Live communication platform.
+### 💬 WeConnect — Real-Time Chat App
+Real-time messaging system.
 
-- WebSocket-based messaging (Socket.IO)
-- Online/offline presence system
+- Socket.IO based communication
 - Typing indicators
-- Read receipts system
+- Online/offline presence system
+- Read receipts
 
 ---
 
-### 📥 InstaLoad — Media Processing System
-Backend-heavy video processing system.
+### 📥 InstaLoad — Instagram Downloader
+Backend-based media processing system.
 
-- yt-dlp integration for extraction
-- API proxy layer for secure requests
+- yt-dlp integration
+- Secure API proxy layer
 - Fast processing pipeline
 - Monorepo architecture
 
@@ -68,36 +63,32 @@ Backend-heavy video processing system.
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React.js, Next.js, TypeScript
-- Tailwind CSS
+React.js • Next.js • TypeScript • Tailwind CSS
 
 **Backend**
-- Node.js, Express.js
-- WebSockets, REST APIs
+Node.js • Express.js • WebSockets • REST APIs
 
 **Database**
-- MongoDB, PostgreSQL
-- Supabase
+MongoDB • PostgreSQL • Supabase
 
 **Tools**
-- Git, Docker (basic)
-- Vercel, Railway
+Git • Docker (basic) • Vercel • Railway
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.shion.dev/api?username=7337475780&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=7337475780&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## ⚡ Contribution Activity Pulse (🔥 REPLACES SNAKE)
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=tokyo-night&hide_border=true" />
@@ -105,7 +96,7 @@ Backend-heavy video processing system.
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1&column=6" />
@@ -115,14 +106,14 @@ Backend-heavy video processing system.
 
 ## 🎯 Current Focus
 
-- Improving system design fundamentals
-- Practicing DSA (pattern-based)
-- Building scalable SaaS-style apps
-- Strengthening backend architecture skills
+- System design fundamentals
+- Advanced DSA (patterns)
+- Scalable backend systems
+- Building SaaS-style projects
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
 - 📧 Email: tharunlingala6@gmail.com  
@@ -132,4 +123,4 @@ Backend-heavy video processing system.
 
 ## ⚡ Closing Thought
 
-> “Good developers build features. Great developers design systems that scale.”
+> “Simple systems scale better than complex ones.”
