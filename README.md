@@ -1,62 +1,67 @@
 
-<!-- HERO -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20-%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20|%20Full%20Stack%20Builder&fontSize=28&fontColor=ffffff"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Tharun
 
-🚀 Full-Stack Developer | Backend-Focused Builder | Web Application Engineer
+🚀 Full-Stack Developer | System Builder | Backend-Oriented Engineer
 
 ---
 
-## 🧩 About Me
+## ⚡ What I Do (Simple + Clear)
 
-I’m a full-stack developer who builds scalable web applications with a focus on clean backend systems and smooth user experiences.
+I build full-stack web applications that focus on:
+- Real-time communication
+- Scalable backend design
+- Clean user experience
+- AI-powered features
 
-I enjoy working on:
-- Real-time applications
-- Backend-heavy full-stack systems
-- AI-integrated web apps
-
-Currently improving:
-- System design fundamentals
-- DSA (pattern-based problem solving)
-- Backend scalability & architecture
+I prefer building systems that feel fast, simple, and production-ready.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 How I Think
 
-### ⚡ aiMagix — AI Image Generator
-Full-stack AI-powered web application.
-
-- Gemini API for prompt enhancement
-- Google & GitHub authentication
-- User image history system
-- Download & storage flow
+- Break features into independent modules
+- Design backend APIs before UI
+- Focus on data flow instead of just UI
+- Optimize for simplicity + scalability
 
 ---
 
-### 💬 WeConnect — Real-Time Chat App
-Real-time messaging platform.
+## 🚀 Projects (System View)
 
-- Socket.IO based communication
+### ⚡ aiMagix — AI Image Platform
+AI-powered full-stack application.
+
+- Prompt enhancement using Gemini API
+- OAuth authentication (Google, GitHub)
+- User-based image history system
+- Download + storage pipeline
+
+---
+
+### 💬 WeConnect — Real-Time Chat System
+Live communication platform.
+
+- WebSocket-based messaging (Socket.IO)
+- Online/offline presence system
 - Typing indicators
-- Online/offline status
 - Read receipts system
 
 ---
 
-### 📥 InstaLoad — Media Downloader System
-Backend-driven video downloader.
+### 📥 InstaLoad — Media Processing System
+Backend-heavy video processing system.
 
-- yt-dlp integration
+- yt-dlp integration for extraction
 - API proxy layer for secure requests
 - Fast processing pipeline
-- Monorepo structure
+- Monorepo architecture
 
 ---
 
@@ -80,49 +85,40 @@ Backend-driven video downloader.
 
 ---
 
-## 🧠 How I Work
-
-- Break problems into small, manageable systems
-- Design backend APIs before UI
-- Focus on scalability and maintainability
-- Build real projects, not just tutorials
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=7337475780&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🐍 Activity Graph
+## ⚡ Contribution Activity Pulse (🔥 REPLACES SNAKE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening system design basics
-- Improving DSA with patterns
-- Building scalable full-stack projects
-- Writing cleaner backend architectures
+- Improving system design fundamentals
+- Practicing DSA (pattern-based)
+- Building scalable SaaS-style apps
+- Strengthening backend architecture skills
 
 ---
 
@@ -133,3 +129,7 @@ Backend-driven video downloader.
 - 🌐 Portfolio: Coming soon  
 
 ---
+
+## ⚡ Closing Thought
+
+> “Good developers build features. Great developers design systems that scale.”
