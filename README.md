@@ -1,127 +1,121 @@
-
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20Chandra%20Lingala&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=180&section=header&text=Tharun%20Chandra%20Lingala&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ================= TYPING INTRO ================= -->
+<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Builder;Real-Time+System+Enthusiast;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+System+Design+Learner;Building+Scalable+Web+Apps;Problem+Solver+%7C+Clean+Code+Advocate" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Tharun
+# 👋 Hi, I'm Tharun Chandra Lingala
 
-I’m a full-stack developer focused on building real-world web applications that are simple, scalable, and useful.
-
-I usually work on:
-- backend-heavy systems  
-- real-time applications  
-- full-stack products with practical use cases  
+Full-Stack Developer focused on building scalable, production-grade web applications.
 
 ---
 
-# 🧠 Current Focus
+## 🧩 About Me
 
-- System design fundamentals  
-- DSA using patterns  
-- Backend architecture  
-- Building scalable SaaS-style apps  
+I enjoy building real products that solve real problems — especially around backend systems, real-time apps, and AI integrations.
 
----
-
-# 🚀 Projects
-
-### ⚡ aiMagix
-AI image generation platform.
-
-- Gemini API for prompt enhancement  
-- Google & GitHub authentication  
-- User-based image history  
-- Download system  
+- 🔭 Working on: Full-stack SaaS & AI-powered tools  
+- 🌱 Learning: System Design, Advanced DSA, Scalable Backend Architecture  
+- 💡 Interested in: SaaS products, distributed systems, AI integrations  
+- 🎯 Goal: Build impactful products and grow into a top-tier engineering role  
 
 ---
 
-### 💬 WeConnect
-Real-time chat application.
+## 🛠️ Tech Stack
 
-- Socket.IO messaging  
-- Typing indicators  
-- Online/offline status  
-- Read receipts  
+**Frontend**
+React.js • Next.js • TypeScript • Tailwind CSS • ShadCN UI  
 
----
+**Backend**
+Node.js • Express.js • WebSockets • REST APIs  
 
-### 📥 InstaLoad
-Instagram video downloader.
+**Database & Cloud**
+MongoDB • PostgreSQL • Supabase • Firebase  
 
-- yt-dlp backend integration  
-- Secure API proxy layer  
-- Fast processing pipeline  
-- Monorepo structure  
-
----
-
-# 🛠️ Tech Stack
-
-**Frontend**  
-React • Next.js • TypeScript • Tailwind CSS  
-
-**Backend**  
-Node.js • Express • WebSockets • REST APIs  
-
-**Database**  
-MongoDB • PostgreSQL • Supabase  
-
-**Tools**  
+**Tools**
 Git • Docker (basic) • Vercel • Railway • Postman  
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Projects
+
+### ⚡ aiMagix — AI Image Generator
+Full-stack AI platform for image generation and prompt enhancement.
+
+- Gemini API integration  
+- OAuth (Google, GitHub) authentication  
+- User history + download system  
+
+---
+
+### 💬 WeConnect — Real-Time Chat App
+Real-time communication system with modern UX.
+
+- Socket.IO messaging  
+- Typing indicators  
+- Online/offline presence  
+- Read receipts  
+
+---
+
+### 📥 InstaLoad — Instagram Downloader
+Backend-driven media processing system.
+
+- yt-dlp integration  
+- Secure API proxy layer  
+- Fast processing pipeline  
+- Monorepo architecture  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 📈 Contribution Pulse
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Activity
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🎯 What I Focus On
+## 🎯 Current Focus
 
-- writing clean and maintainable code  
-- understanding how systems scale  
-- building real-world full-stack applications  
-- improving problem-solving skills  
-
----
-
-# 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
-- Email: tharunlingala6@gmail.com  
-- Portfolio: not ready yet  
+- System design fundamentals  
+- Scalable backend architecture  
+- Advanced DSA patterns  
+- SaaS product building  
 
 ---
 
-# ⚡ Note
+## 📫 Connect With Me
 
-I learn best by building things, breaking them, and improving them over time.
+- 💼 LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
+- 📧 Email: tharunlingala6@gmail.com  
+- 🌐 Portfolio: Coming soon  
+
+---
+
+## ⚡ Closing Thought
+
+> “Good engineering is invisible — it just works.”
