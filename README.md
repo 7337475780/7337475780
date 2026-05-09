@@ -83,11 +83,24 @@ Backend-driven media processing system.
 
 ---
 
-## 📈 Contribution Pulse
+## 📊 Development Focus
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tharun&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⚙️ What I’m currently focused on
+
+- Backend system design & scalability  
+- Building SaaS-grade full-stack applications  
+- Real-time systems using WebSockets  
+- Advanced DSA pattern mastery  
 
 ---
 
