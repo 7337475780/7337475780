@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3c72&height=260&section=header&text=Tharun%20Chandra%20Lingala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-
-
----
-
 <!-- subtle glow divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/0000000/gradient-line.gif" width="100%" height="2"/>
