@@ -1,118 +1,95 @@
 
-<!-- ================= HERO BANNER ================= -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Tharun%20-%20Software%20Engineer&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20-%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Tharun
 
-🚀 Software Engineer | Systems Builder | Product Thinker  
-🧠 I design scalable systems, not just applications  
-⚙️ Focus: Distributed Systems • Real-Time Architecture • AI Products  
+🚀 Full-Stack Developer | Backend-Focused Builder | Web Application Engineer
 
 ---
 
-## ⚡ 10-Second Engineering Summary
+## 🧩 About Me
 
-I build **production-grade distributed full-stack systems** with focus on:
+I’m a full-stack developer who builds scalable web applications with a focus on clean backend systems and smooth user experiences.
 
-- Scalable backend architectures
-- Real-time event-driven systems
-- AI-integrated SaaS applications
-- System design over feature development
+I enjoy working on:
+- Real-time applications
+- Backend-heavy full-stack systems
+- AI-integrated web apps
 
-> Target: Top-tier product engineering roles (FAANG-level)
-
----
-
-# 🧠 SYSTEM DESIGN THINKING
-
-## How I think in engineering terms:
-
-- Request → API Gateway → Service Layer → Data Layer
-- Stateless vs Stateful decisions
-- Horizontal scalability planning
-- Failure handling & retry strategies
-- Latency optimization mindset
+Currently improving:
+- System design fundamentals
+- DSA (pattern-based problem solving)
+- Backend scalability & architecture
 
 ---
 
-# 🏗️ SYSTEMS I BUILT (REAL ENGINEERING VIEW)
+## 🚀 Featured Projects
 
-## ⚡ aiMagix — AI SaaS Platform
-AI-powered system designed like a scalable product.
+### ⚡ aiMagix — AI Image Generator
+Full-stack AI-powered web application.
 
-### Architecture:
-- AI Prompt Engine (Gemini API abstraction layer)
-- OAuth Authentication System (Google / GitHub)
-- Multi-user data isolation (scoped storage model)
-- Image processing + download pipeline
-- Modular backend service separation
+- Gemini API for prompt enhancement
+- Google & GitHub authentication
+- User image history system
+- Download & storage flow
 
 ---
 
-## 💬 WeConnect — Real-Time Communication System
-Event-driven messaging architecture.
+### 💬 WeConnect — Real-Time Chat App
+Real-time messaging platform.
 
-### Architecture:
-- WebSocket-based real-time event layer (Socket.IO)
-- Presence tracking system (online/offline state sync)
-- Message acknowledgment flow (read receipts)
-- Typing indicator event pipeline
-- Client-server state synchronization model
+- Socket.IO based communication
+- Typing indicators
+- Online/offline status
+- Read receipts system
 
 ---
 
-## 📥 InstaLoad — Backend Processing System
-High-throughput media processing pipeline.
+### 📥 InstaLoad — Media Downloader System
+Backend-driven video downloader.
 
-### Architecture:
-- yt-dlp processing engine abstraction
-- Secure API proxy layer (request isolation)
-- Async request handling pipeline
-- Monorepo architecture (frontend/backend split)
-- Optimized response lifecycle management
+- yt-dlp integration
+- API proxy layer for secure requests
+- Fast processing pipeline
+- Monorepo structure
 
 ---
 
-# 🧩 ENGINEERING STACK (REAL USAGE)
+## 🛠️ Tech Stack
 
-## Frontend Systems
+**Frontend**
 - React.js, Next.js, TypeScript
-- Component-driven architecture
-- Tailwind CSS design systems
+- Tailwind CSS
 
-## Backend Systems
+**Backend**
 - Node.js, Express.js
-- WebSockets (real-time systems)
-- REST API design principles
+- WebSockets, REST APIs
 
-## Data Systems
-- MongoDB (document modeling)
-- PostgreSQL (relational modeling)
-- Supabase (auth + backend services)
+**Database**
+- MongoDB, PostgreSQL
+- Supabase
 
-## Infrastructure
-- Docker (basic containerization)
-- Vercel / Railway deployments
-- Git-based CI/CD workflows
+**Tools**
+- Git, Docker (basic)
+- Vercel, Railway
 
 ---
 
-# 🧠 HOW I SOLVE PROBLEMS
+## 🧠 How I Work
 
-1. Identify system boundaries
-2. Split into modular services
-3. Define API contracts early
-4. Design data flow architecture
-5. Optimize for scale + failure handling
-6. Implement clean production-ready code
+- Break problems into small, manageable systems
+- Design backend APIs before UI
+- Focus on scalability and maintainability
+- Build real projects, not just tutorials
 
 ---
 
-# 📊 GITHUB INSIGHTS
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -120,13 +97,11 @@ High-throughput media processing pipeline.
 
 <img src="https://streak-stats.demolab.com?user=7337475780&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION GRAPH (SNAKE)
+## 🐍 Activity Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -134,50 +109,27 @@ High-throughput media processing pipeline.
 
 ---
 
-# 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
 
-# 🧠 LEETCODE / DSA TRACKER
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo" />
-</p>
-
----
-
-# 🎯 CURRENT FOCUS
-
-- System Design (HLD + LLD mastery)
-- Advanced DSA (pattern recognition)
-- Distributed system fundamentals
-- Building SaaS-level scalable products
+- Strengthening system design basics
+- Improving DSA with patterns
+- Building scalable full-stack projects
+- Writing cleaner backend architectures
 
 ---
 
-# 💼 WHY HIRE ME (10-SECOND ANSWER)
-
-I am a developer who thinks like a system engineer.
-
-I don’t just implement features — I design systems that:
-- Scale under load
-- Handle real-time interaction
-- Maintain clean architecture under complexity
-
----
-
-# 📫 CONNECT
+## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
 - 📧 Email: tharunlingala6@gmail.com  
-- 🌐 Portfolio: In progress  
+- 🌐 Portfolio: Coming soon  
 
 ---
-
-# ⚡ FINAL ENGINEERING PRINCIPLE
-
-> “The value of an engineer is not in how much code they write, but in how well their system survives scale.”
