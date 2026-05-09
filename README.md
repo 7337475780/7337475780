@@ -1,95 +1,105 @@
-
-<!-- ================= HERO (SAAS LANDING STYLE) ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=Tharun%20Chandra%20Lingala%20|%20Full%20Stack%20Engineer&fontSize=24&fontColor=ffffff&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=Tharun%20Chandra%20Lingala%20|%20Full%20Stack%20Developer&fontSize=24&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <b>Building scalable systems, real-time applications, and AI-powered products.</b>
+  Full-Stack Developer | Backend + Real-time Apps
 </p>
 
 ---
 
-# 🚀 Overview
+# 👋 Hi, I'm Tharun
 
-I design and build **production-ready full-stack systems** focused on scalability, performance, and clean architecture.
+I’m a full-stack developer who enjoys building web apps that actually work in real use cases.
 
-Think:
-> APIs • Real-time systems • AI workflows • scalable backend design
-
----
-
-# 🧠 Engineering Focus
-
-- System-first development (not UI-first)
-- Backend-driven architecture design
-- Event-driven & real-time systems
-- API-first product building
-- Scalable SaaS-style applications
+Most of my work is around:
+- backend-heavy applications  
+- real-time features  
+- full-stack projects with practical use cases  
 
 ---
 
-# ⚙️ What I'm Building
+# 🧠 What I’m Currently Doing
 
-### 🧩 aiMagix — AI Generation System
-A scalable AI content generation platform.
-
-- Prompt intelligence layer (Gemini API)
-- OAuth authentication system
-- User-based stateful history storage
-- End-to-end generation pipeline
+- Practicing system design basics  
+- Improving DSA with patterns  
+- Building full-stack apps to understand scalability better  
+- Exploring how SaaS products are structured
 
 ---
 
-### 💬 WeConnect — Real-Time Communication System
-A low-latency messaging platform.
+# 🚀 Projects I’ve Worked On
 
-- WebSocket-based architecture (Socket.IO)
-- Real-time sync layer
-- Presence + typing system
-- Event-driven message flow
+### ⚡ aiMagix
+AI image generation app with basic user authentication and history tracking.
+
+- Gemini API used for prompt improvement  
+- Login with Google and GitHub  
+- Stores generated images per user  
+- Download support  
 
 ---
 
-### 📦 InstaLoad — Media Processing Engine
-A backend processing pipeline for media extraction.
+### 💬 WeConnect
+A real-time chat application.
 
-- yt-dlp integration layer
-- Secure API proxy system
-- Async processing pipeline
-- Modular monorepo architecture
+- Socket.IO for messaging  
+- Typing indicator  
+- Online/offline status  
+- Read receipts  
+
+---
+
+### 📥 InstaLoad
+Instagram video downloader using backend processing.
+
+- yt-dlp integration  
+- API layer to handle requests  
+- Fast download pipeline  
+- Separate backend + frontend structure  
 
 ---
 
 # 🛠️ Tech Stack
 
-**Frontend Layer**
-React • Next.js • TypeScript • Tailwind CSS  
+**Frontend**
+React, Next.js, TypeScript, Tailwind CSS  
 
-**Backend Layer**
-Node.js • Express.js • WebSockets • REST APIs  
+**Backend**
+Node.js, Express, WebSockets, REST APIs  
 
-**Data Layer**
-MongoDB • PostgreSQL • Supabase  
+**Database**
+MongoDB, PostgreSQL, Supabase  
 
-**Infra**
-Vercel • Railway • Docker (basic) • Git  
+**Tools**
+Git, Docker (basic), Vercel, Railway, Postman  
 
 ---
 
-# 📊 Developer Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" />
 
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 📈 System Activity Pulse
+# 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7337475780&theme=react-dark&hide_border=true&area=true" />
@@ -97,23 +107,23 @@ Vercel • Railway • Docker (basic) • Git
 
 ---
 
-# 🧭 Current Focus
+# 🎯 What I Focus On
 
-- Distributed system fundamentals
-- Scalable backend architecture
-- Advanced DSA (pattern-based)
-- SaaS product engineering mindset
+- writing clean, maintainable code  
+- understanding how systems are structured  
+- building full-stack projects instead of just tutorials  
+- improving problem-solving skills  
 
 ---
 
-# 📫 Connect
+# 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
 - Email: tharunlingala6@gmail.com  
-- Portfolio: In progress  
+- Portfolio: not ready yet  
 
 ---
 
-# ⚡ Engineering Principle
+# ⚡ Note
 
-> “A system is only as good as its architecture, not its features.”
+I usually learn best by building things, breaking them, and fixing them again.
