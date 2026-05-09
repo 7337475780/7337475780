@@ -1,5 +1,25 @@
-<!-- ================= HERO ================= -->
-# Hi there 👋 I'm Tharun Chandra Lingala
+<!-- ================= MODERN APPLE-STYLE HERO ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3c72&height=260&section=header&text=Tharun%20Chandra%20Lingala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;System+Design+Learner;SaaS+Builder;Real-time+App+Architect;Clean+Code+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Scalable%20Systems-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-System%20Design-1e3c72?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Production%20Ready-black?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- subtle glow divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/0000000/gradient-line.gif" width="100%" height="2"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Scalable+System+Builder;Backend+Engineer;SaaS+Product+Builder;Problem+Solver;System+Design+Learner" />
