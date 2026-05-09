@@ -1,100 +1,139 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HERO (APPLE STYLE) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Tharun%20Lingala%20|%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3c72&height=200&section=header&text=Tharun%20Lingala&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Engineer;Backend+Focused+Builder;System+Design+Learner;SaaS+Builder;Problem+Solver&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Backend+System+Builder;SaaS+%26+Scalable+Architect;Problem+Solver;System+Design+Learner" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Tharun
+# 🧠 Engineering Focus
 
-Full-Stack Engineer focused on building **scalable systems, real-time applications, and SaaS products**.
+<p align="center">
+  Designing systems like products — not just apps.
+</p>
 
-I enjoy designing backend-heavy systems, optimizing performance, and turning ideas into production-ready products.
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Focused-1e3c72?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS%20Builder-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+# 🧊 About Me (Glass Card Style)
 
-**Frontend**
-- React.js • Next.js • TypeScript • Tailwind CSS
+<table align="center">
+<tr>
+<td align="center" style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
 
-**Backend**
-- Node.js • Express.js • WebSockets • REST APIs
+### 👋 Hi, I'm Tharun  
+Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
-**Database & Cloud**
-- MongoDB • PostgreSQL • Supabase • Firebase
+- ⚙️ Building real-time & AI-powered apps  
+- 🧠 Learning system design deeply  
+- 🚀 Focused on production-grade architecture  
+- 🎯 Goal: Top-tier SWE role + impactful products  
 
-**DevOps & Tools**
-- Docker • Vercel • Railway • GitHub • Postman
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Tech Stack (Apple Grid Style)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,postgres,docker,git,github,vercel" />
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <i>Production-level systems I’ve built</i>
-</p>
-
 ---
 
-## 🧠 AI Magix — AI Image Generation Platform
+## 🧠 AI Magix — AI SaaS Platform
 <p align="center">
-  <b>Full-stack AI SaaS-style application</b>
+<img src="https://img.shields.io/badge/AI%20Platform-Glassmorphism-black?style=for-the-badge"/>
 </p>
 
-- Prompt enhancement using Gemini API  
-- OAuth authentication (Google & GitHub)  
-- Image history + download system  
-- Clean scalable backend architecture  
+<table align="center">
+<tr>
+<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+
+### ✨ Highlights
+- Gemini AI prompt enhancement  
+- OAuth authentication system  
+- Image generation + history storage  
+- Production-ready architecture  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💬 WeConnect — Real-Time Chat System
-<p align="center">
-  <b>Realtime messaging + presence system</b>
-</p>
 
-- Socket.IO based real-time architecture  
-- Typing indicators + read receipts  
-- Online/offline presence tracking  
-- Responsive production UI  
+<table align="center">
+<tr>
+<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+
+### ⚡ Highlights
+- Socket.IO real-time engine  
+- Typing indicators + presence system  
+- Read receipts  
+- Scalable chat architecture  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📥 InstaLoad — Scalable Media Downloader
-<p align="center">
-  <b>Backend-heavy video processing system</b>
-</p>
+## 📥 InstaLoad — Media Processing Engine
 
-- yt-dlp powered backend pipeline  
+<table align="center">
+<tr>
+<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+
+### ⚙️ Highlights
+- yt-dlp backend pipeline  
 - Secure API proxy layer  
 - Fast media extraction system  
-- Monorepo architecture (frontend + backend)  
+- Monorepo architecture  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 System Design Mindset
+# 📊 System Thinking
 
-- Focus on **scalability before features**
-- Prefer **stateless backend architecture**
-- Design APIs for **reusability & clarity**
-- Optimize for **latency + performance**
-- Think in terms of **distributed systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/Thinking-Scalable%20Systems-black?style=for-the-badge"/>
+</p>
+
+- Stateless backend design  
+- Low-latency API focus  
+- Modular architecture thinking  
+- Production-first development  
 
 ---
 
-## 📊 GitHub Performance
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=7337475780&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=7337475780&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -104,20 +143,30 @@ I enjoy designing backend-heavy systems, optimizing performance, and turning ide
 
 ---
 
-## 📫 Contact
+# 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309  
-- Email: tharunlingala6@gmail.com  
-- Portfolio: Coming Soon  
+<p align="center">
+
+<a href="mailto:tharunlingala6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tharun-lingala-bba016309">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Closing
+# ⚡ Philosophy
 
-> “Good engineers write code. Great engineers design systems.”
+<p align="center">
+<b>“Great engineers don’t just write code — they design systems that scale.”</b>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0f0f0f&height=120&section=footer"/>
 </p>
