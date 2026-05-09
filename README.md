@@ -1,78 +1,77 @@
-
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun Chandra Lingala%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Tharun%20Chandra%20Lingala%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Tharun Chandra Lingala
 
-🚀 Full-Stack Developer | Backend-Focused Builder | System Design Learner
+🚀 Full-Stack Developer | Backend-Focused Engineer | System Builder
 
 ---
 
 ## 🧩 About Me
 
-I’m a full-stack developer focused on building scalable and production-ready web applications.
+I build scalable full-stack web applications with a strong focus on backend systems, performance, and clean architecture.
 
 I enjoy working on:
-- Real-time applications
-- Backend-heavy systems
+- Real-time systems
+- Backend-heavy applications
 - Full-stack AI integrations
 
 Currently improving:
 - System design fundamentals
-- DSA (pattern-based problem solving)
-- Backend architecture & scalability
+- DSA using problem-solving patterns
+- Backend scalability and architecture
 
 ---
 
 ## 🚀 Projects
 
-### ⚡ aiMagix — AI Image Generator
-Full-stack AI-powered platform.
+### ⚡ aiMagix — AI Image Generation Platform
+A full-stack AI-powered application built for scalable image generation workflows.
 
 - Gemini API for prompt enhancement
 - OAuth authentication (Google, GitHub)
-- User image history system
-- Download & storage workflow
+- User-based image history system
+- Download and storage pipeline
 
 ---
 
-### 💬 WeConnect — Real-Time Chat App
-Real-time messaging system.
+### 💬 WeConnect — Real-Time Chat System
+A live messaging system designed for instant communication.
 
-- Socket.IO based communication
-- Typing indicators
-- Online/offline presence system
-- Read receipts
+- Socket.IO-based real-time messaging
+- Typing indicators and presence system
+- Online/offline user tracking
+- Read receipt mechanism
 
 ---
 
-### 📥 InstaLoad — Instagram Downloader
-Backend-based media processing system.
+### 📥 InstaLoad — Media Processing System
+A backend-driven video processing and download system.
 
-- yt-dlp integration
+- yt-dlp integration for media extraction
 - Secure API proxy layer
-- Fast processing pipeline
-- Monorepo architecture
+- Optimized processing pipeline
+- Monorepo architecture (frontend + backend separation)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-React.js • Next.js • TypeScript • Tailwind CSS
+**Frontend**  
+React.js • Next.js • TypeScript • Tailwind CSS  
 
-**Backend**
-Node.js • Express.js • WebSockets • REST APIs
+**Backend**  
+Node.js • Express.js • WebSockets • REST APIs  
 
-**Database**
-MongoDB • PostgreSQL • Supabase
+**Database**  
+MongoDB • PostgreSQL • Supabase  
 
-**Tools**
-Git • Docker (basic) • Vercel • Railway
+**Tools & Infra**  
+Git • Docker (basic) • Vercel • Railway  
 
 ---
 
@@ -96,7 +95,7 @@ Git • Docker (basic) • Vercel • Railway
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=algolia&no-frame=true&row=1&column=6" />
@@ -106,10 +105,10 @@ Git • Docker (basic) • Vercel • Railway
 
 ## 🎯 Current Focus
 
-- System design fundamentals
-- Advanced DSA (patterns)
-- Scalable backend systems
-- Building SaaS-style projects
+- Strengthening system design fundamentals
+- Practicing DSA with pattern-based approach
+- Building scalable SaaS-style applications
+- Improving backend architecture skills
 
 ---
 
@@ -123,4 +122,4 @@ Git • Docker (basic) • Vercel • Railway
 
 ## ⚡ Closing Thought
 
-> “Simple systems scale better than complex ones.”
+> “Good developers write code. Strong developers design systems that scale.”
