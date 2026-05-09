@@ -31,7 +31,7 @@ I enjoy turning ideas into real-world products with clean UI, efficient backend 
 
 ---
 
-### 🍏 Apple-style Skill Breakdown
+### Skill Breakdown
 
 <p align="center">
 
@@ -106,11 +106,6 @@ A scalable video downloader using backend processing with yt-dlp.
 
 ---
 
-## ⚡ Fun Fact
-
-I believe **"Consistency > Talent"** — small daily improvements compound into big results.
-
----
 
 ## 🌐 Socials
 
@@ -134,7 +129,11 @@ I believe **"Consistency > Talent"** — small daily improvements compound into 
 </p>
 
 ---
+## ⚡ Fun Fact
 
+I believe **"Consistency > Talent"** — small daily improvements compound into big results.
+
+---
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
