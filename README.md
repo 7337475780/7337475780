@@ -1,41 +1,40 @@
-<!-- ================= HERO (APPLE STYLE) ================= -->
+<!-- ================= HERO (APPLE WWDC STYLE) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3c72&height=200&section=header&text=Tharun%20Lingala&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e3c72,100:2c5364&height=220&section=header&text=Tharun%20Lingala%20—%20Full-Stack%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Backend+System+Builder;SaaS+%26+Scalable+Architect;Problem+Solver;System+Design+Learner" />
-</p>
-
----
-
-# 🧠 Engineering Focus
-
-<p align="center">
-  Designing systems like products — not just apps.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-Scalable-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Focused-1e3c72?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SaaS%20Builder-000000?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Backend+%2B+SaaS+Focused+Engineer;System+Design+Learner;Real-Time+%26+AI+Apps;Production-Grade+Architectures"/>
 </p>
 
 ---
 
-# 🧊 About Me (Glass Card Style)
+# ⚡ STATUS DASHBOARD (LIVE SYSTEM VIEW)
 
 <table align="center">
 <tr>
-<td align="center" style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+<td align="center">
 
-### 👋 Hi, I'm Tharun  
-Full-Stack Engineer focused on **scalable backend systems & SaaS products**
+### 🧠 Focus
+Backend + System Design
 
-- ⚙️ Building real-time & AI-powered apps  
-- 🧠 Learning system design deeply  
-- 🚀 Focused on production-grade architecture  
-- 🎯 Goal: Top-tier SWE role + impactful products  
+### 🚀 Currently Building
+AI + Real-time SaaS Apps
+
+### 📈 Goal
+Top-tier Software Engineer
+
+</td>
+
+<td align="center">
+
+### ⚙️ Systems Status
+🟢 Active Development  
+🟡 Learning Phase  
+🟢 Open to Opportunities  
+
+### 📊 Code Quality
+██████████ 90%
 
 </td>
 </tr>
@@ -43,34 +42,53 @@ Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
 ---
 
-# 🧩 Tech Stack (Apple Grid Style)
+# 🧊 PRODUCT LANDING VIEW (ABOUT)
 
-<p align="center">
+> Think of this as a **developer product page**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,postgres,docker,git,github,vercel" />
+<table align="center">
+<tr>
+<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:16px;">
 
-</p>
+## 👋 Tharun Lingala
+
+Full-Stack Engineer focused on **building scalable backend systems and SaaS products**
+
+- ⚙️ System-first engineering approach  
+- 🧠 Deep focus on architecture & scalability  
+- 🚀 Building production-ready apps  
+- 🎯 Goal: Impactful large-scale systems  
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PRODUCTS (CLICKABLE PROJECT CARDS)
 
 ---
 
-## 🧠 AI Magix — AI SaaS Platform
+## 🧠 AI MAGIX — AI SaaS PLATFORM
+
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Platform-Glassmorphism-black?style=for-the-badge"/>
+<a href="https://github.com/yourrepo" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20REPO-black?style=for-the-badge"/>
+</a>
+<a href="https://your-live-demo.com" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-1e3c72?style=for-the-badge"/>
+</a>
 </p>
 
 <table align="center">
 <tr>
-<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+<td style="background: rgba(255,255,255,0.05); padding:18px; border-radius:15px;">
 
-### ✨ Highlights
+### 🔥 Core Features
 - Gemini AI prompt enhancement  
 - OAuth authentication system  
-- Image generation + history storage  
-- Production-ready architecture  
+- Image generation pipeline  
+- History + download system  
 
 </td>
 </tr>
@@ -78,17 +96,26 @@ Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
 ---
 
-## 💬 WeConnect — Real-Time Chat System
+## 💬 WECONNECT — REAL-TIME SYSTEM
+
+<p align="center">
+<a href="https://github.com/yourrepo" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20REPO-black?style=for-the-badge"/>
+</a>
+<a href="https://your-live-demo.com" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20CHAT-2c5364?style=for-the-badge"/>
+</a>
+</p>
 
 <table align="center">
 <tr>
-<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+<td style="background: rgba(255,255,255,0.05); padding:18px; border-radius:15px;">
 
-### ⚡ Highlights
+### ⚡ Core Features
 - Socket.IO real-time engine  
-- Typing indicators + presence system  
+- Typing indicators  
+- Online presence system  
 - Read receipts  
-- Scalable chat architecture  
 
 </td>
 </tr>
@@ -96,13 +123,22 @@ Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
 ---
 
-## 📥 InstaLoad — Media Processing Engine
+## 📥 INSTALOAD — MEDIA ENGINE
+
+<p align="center">
+<a href="https://github.com/yourrepo" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20REPO-black?style=for-the-badge"/>
+</a>
+<a href="https://your-live-demo.com" target="_blank">
+  <img src="https://img.shields.io/badge/DOWNLOADER-0f0f0f?style=for-the-badge"/>
+</a>
+</p>
 
 <table align="center">
 <tr>
-<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
+<td style="background: rgba(255,255,255,0.05); padding:18px; border-radius:15px;">
 
-### ⚙️ Highlights
+### ⚙️ Core Features
 - yt-dlp backend pipeline  
 - Secure API proxy layer  
 - Fast media extraction system  
@@ -114,26 +150,23 @@ Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
 ---
 
-# 📊 System Thinking
+# 🧠 SYSTEM DESIGN MINDSET
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thinking-Scalable%20Systems-black?style=for-the-badge"/>
-</p>
-
-- Stateless backend design  
-- Low-latency API focus  
-- Modular architecture thinking  
+- Stateless backend architecture  
+- Horizontal scalability thinking  
+- Low-latency API design  
+- Modular service structure  
 - Production-first development  
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 LIVE ENGINE METRICS
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=7337475780&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7337475780&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -143,30 +176,35 @@ Full-Stack Engineer focused on **scalable backend systems & SaaS products**
 
 ---
 
-# 📬 Contact
+# 💼 HIRE ME (SAAS CTA SECTION)
 
 <p align="center">
 
+### 🚀 Open to Opportunities
+
+<b>I build scalable systems, not just projects.</b>
+
 <a href="mailto:tharunlingala6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/📩%20HIRE%20ME-black?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tharun-lingala-bba016309">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1e3c72?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Philosophy
+# ⚡ FINAL PHILOSOPHY
 
 <p align="center">
-<b>“Great engineers don’t just write code — they design systems that scale.”</b>
+<b>“Build systems that scale. Everything else is secondary.”</b>
 </p>
 
 ---
 
+<!-- ================= FOOTER (APPLE STYLE) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0f0f0f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:000000&height=120&section=footer"/>
 </p>
