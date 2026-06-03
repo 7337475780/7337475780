@@ -109,7 +109,7 @@ A scalable video downloader using backend processing with yt-dlp.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309/  
-- 🌐 Portfolio: In Progress  
+- 🌐 Portfolio: https://tharunchandralingala-dev.vercel.app/  
 - 📧 Email: tharunlingala6@gmail.com  
 
 ---
