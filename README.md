@@ -117,7 +117,7 @@ Full-stack AI image generation platform with auth, prompt history, and Gemini-po
 
 `React` `Next.js` `Node.js` `MongoDB` `Gemini API`
 
-[**🔗 Live Demo**](#) · [**💻 Source**](#)
+[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
 
 </td>
 <td width="50%" valign="top">
@@ -131,9 +131,11 @@ Modern messaging app engineered for real-time UX and accurate presence tracking.
 - 👀 Live typing indicators + read receipts
 - 📱 Fully responsive across devices
 
+**1.8k** Users · **120k+** Messages · **99.9%** Uptime
+
 `React` `Socket.IO` `Node.js` `Express`
 
-[**🔗 Live Demo**](#) · [**💻 Source**](#)
+[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
 
 </td>
 </tr>
@@ -143,29 +145,33 @@ Modern messaging app engineered for real-time UX and accurate presence tracking.
 ### 📥 InstaLoad
 **Instagram Video Downloader**
 
-Scalable backend service for extracting and serving video content at speed.
+Scalable backend service for extracting and serving video content at speed (Instagram Reels + YouTube via TubeFetcher).
 
 - 🛡️ Secure, rate-limited API proxy layer
 - 🎬 Fast extraction pipeline via yt-dlp
-- 🗂️ Clean monorepo architecture
+- 🐳 Containerized with Docker, deployed on Railway
 
-`Node.js` `Express` `yt-dlp` `Monorepo`
+**10k+** Downloads · **0.8s** Avg. Time · **1.2MB** Avg. Size
 
-[**🔗 Live Demo**](#) · [**💻 Source**](#)
+`Node.js` `Express` `yt-dlp` `Docker`
+
+[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ Your Next Build
-**This card is reserved**
+### 🌐 webGenie
+**AI Website Generator**
 
-Ship one more project that shows backend depth — queues, caching, rate limiting, or a system-design writeup.
+Converts natural language prompts into complete website layouts and content using Gemini and OpenAI APIs.
 
-- 🎯 One deep project beats three shallow ones
-- 📊 Add a metric: latency, throughput, users
-- 📝 Write a short README with architecture diagram
+- 🧠 Dual AI integration (Gemini + OpenAI)
+- 🧩 Modular React frontend
+- 📱 Full mobile responsiveness
 
-`Add it here`
+`React` `Gemini API` `OpenAI API`
+
+[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
 
 </td>
 </tr>
