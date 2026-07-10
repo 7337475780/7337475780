@@ -1,147 +1,115 @@
-<!-- ================= MODERN APPLE-STYLE HERO ================= -->
+<!-- ================= HERO ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e3c72&height=260&section=header&text=Tharun%20Chandra%20Lingala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- subtle glow divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/gradient-line.gif" width="100%" height="2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend-Leaning+Engineer;I+ship+production-ready+apps%2C+not+just+tutorials;Open+to+SDE+%2F+Full-Stack+roles" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Scalable+System+Builder;Backend+Engineer;SaaS+Product+Builder;Problem+Solver;System+Design+Learner" />
+  <a href="https://www.linkedin.com/in/tharun-lingala-bba016309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://tharunchandralingala-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1e3c72?logo=vercel&logoColor=white"/></a>
+  <a href="mailto:tharunlingala6@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen"/>
 </p>
 
 ---
 
-🚀 Full-Stack Developer | Problem Solver | Building scalable web apps
+### 👋 About Me
+
+I'm a full-stack developer who builds **production-grade web applications**, not tutorial clones — from real-time systems to AI-integrated products, with attention to authentication, data modeling, and API design.
+
+- 🔭 **Currently building:** full-stack AI tools & real-time web apps
+- 🌱 **Currently learning:** System Design, Advanced DSA, scalable backend architecture
+- 💡 **Interested in:** SaaS products, AI integrations, distributed systems
+- 🎯 **Goal:** a software engineering role where I can own features end-to-end
+- ⚡ **Fun fact:** I believe *"Consistency > Talent"* — small daily reps compound into real skill
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a passionate full-stack developer focused on building **fast, scalable, and production-ready web applications**.  
-I enjoy turning ideas into real-world products with clean UI, efficient backend systems, and great user experience.
-
-- 🔭 Currently working on: Full-stack AI tools & real-time web apps  
-- 🌱 Learning: System Design, Advanced DSA, Backend Architecture  
-- 💡 Interested in: SaaS products, AI integrations, scalable systems  
-- 🎯 Goal: Land a top-tier software engineering role & build impactful products  
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,postgres,redis,supabase,firebase,docker,git,github,vercel,postman" />
 </p>
 
+| Layer | Stack |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, WebSockets |
+| **Data & Cloud** | MongoDB, PostgreSQL, Redis, Supabase, Firebase |
+| **Tooling** | Docker, Git/GitHub, Vercel, Postman |
+
 ---
 
-### Skill Breakdown
+### 🚀 Featured Projects
+
+#### 🔹 [aiMagix — AI Image Generator](#)
+Full-stack AI image generation platform with auth, prompt history, and prompt enhancement via the Gemini API.
+- 🔐 OAuth via GitHub/Google — secure, session-based auth
+- 🧠 Gemini API integration to enhance and refine user prompts before generation
+- 🖼️ Persistent image history with retrieval and download support
+
+`React` `Next.js` `Node.js` `MongoDB` `Gemini API`
+
+---
+
+#### 🔹 [WeConnect — Real-Time Chat App](#)
+Modern messaging app focused on real-time UX and presence accuracy.
+- ⚡ Socket.IO-powered messaging with sub-second delivery
+- 👀 Live typing indicators and read receipts
+- 📱 Fully responsive UI across devices
+
+`React` `Socket.IO` `Node.js` `Express`
+
+---
+
+#### 🔹 [InstaLoad — Instagram Video Downloader](#)
+Scalable backend service for extracting and serving Instagram video content.
+- 🛡️ Secure API proxy layer to isolate and rate-limit extraction requests
+- 🎬 Fast extraction pipeline built on yt-dlp
+- 🗂️ Clean monorepo structure separating frontend and backend concerns
+
+`Node.js` `Express` `yt-dlp` `Monorepo`
+
+> 💡 *Tip: add live demo links and a short "what I'd improve next" line to each project — recruiters weight this heavily.*
+
+---
+
+### 🧠 How I Work
+
+- Ship production-level projects, not tutorial copies
+- Design for maintainability: clear structure, typed code, sane error handling
+- Study system design fundamentals to reason about scale, not just features
+- Sharpen problem-solving through consistent DSA practice
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-**Frontend**  
-React • Next.js • TypeScript • Tailwind CSS  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=7337475780&theme=dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-**Backend**  
-Node.js • Express.js • REST APIs • WebSockets  
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=dark&hide_border=true"/>
 </p>
+
+---
+
+### 📫 Let's Connect
+
+I'm actively open to full-stack / backend engineering roles and collaborations. Reach out — I reply fast.
+
+- 💼 LinkedIn: [tharun-lingala](https://www.linkedin.com/in/tharun-lingala-bba016309/)
+- 🌐 Portfolio: [tharunchandralingala-dev.vercel.app](https://tharunchandralingala-dev.vercel.app/)
+- 📧 Email: [tharunlingala6@gmail.com](mailto:tharunlingala6@gmail.com)
+
+---
 
 <p align="center">
-
-**Database & Cloud**  
-MongoDB • PostgreSQL • Redis • Supabase • Firebase  
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-<p align="center">
-
-**Tools & DevOps**  
-Docker • Git • GitHub • Vercel • Postman  
-
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔹 aiMagix – AI Image Generator  
-A full-stack AI-powered image generation platform with authentication, history tracking, and prompt enhancement.  
-- Gemini API integration for prompt enhancement  
-- Secure authentication (GitHub/Google)  
-- Image history storage and download system  
-
----
-
-### 🔹 WeConnect – Real-time Chat App  
-A modern chat application with real-time messaging and user presence system.  
-- Socket.IO based real-time communication  
-- Typing indicators & read receipts  
-- Responsive UI with modern UX  
-
----
-
-### 🔹 InstaLoad – Instagram Downloader  
-A scalable video downloader using backend processing with yt-dlp.  
-- Secure API proxy layer  
-- Fast video extraction pipeline  
-- Backend-frontend monorepo structure  
-
----
-
-## 🧠 What I Focus On
-
-- Writing clean, maintainable code  
-- Understanding system design fundamentals  
-- Building production-level projects (not just tutorials)  
-- Improving problem-solving with DSA patterns  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tharun-lingala-bba016309/  
-- 🌐 Portfolio: https://tharunchandralingala-dev.vercel.app/  
-- 📧 Email: tharunlingala6@gmail.com  
-
----
-
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-lingala-bba016309)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharunlingala6@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7337475780&theme=dark&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
-## ⚡ Fun Fact
-
-I believe **"Consistency > Talent"** — small daily improvements compound into big results.
-
----
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
