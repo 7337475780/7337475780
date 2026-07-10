@@ -122,7 +122,7 @@ Full-stack AI image generation platform with auth, prompt history, and Gemini-po
 
 `React` `Next.js` `Node.js` `MongoDB` `Gemini API`
 
-[**💻 View Repo**](https://github.com/7337475780/aiMagix)
+[**💻 View Repo**](https://github.com/7337475780/ai-magix)
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ Modern messaging app engineered for real-time UX and accurate presence tracking.
 
 `React` `Socket.IO` `Node.js` `Express`
 
-[**💻 View Repo**](https://github.com/7337475780/WeConnect)
+[**💻 View Repo**](https://github.com/7337475780/weconnect)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ Scalable backend service for extracting and serving video content at speed (Inst
 
 `Node.js` `Express` `yt-dlp` `Docker`
 
-[**💻 View Repo**](https://github.com/7337475780/InstaLoad)
+[**💻 View Repo**](https://github.com/7337475780/instaload)
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ Converts natural language prompts into complete website layouts and content usin
 
 `React` `Gemini API` `OpenAI API`
 
-[**💻 View Repo**](https://github.com/7337475780/webGenie)
+[**💻 View Repo**](https://github.com/7337475780/webgenie)
 
 </td>
 </tr>
