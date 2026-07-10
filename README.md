@@ -6,8 +6,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tharun-lingala-bba016309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tharun-chandra-lingala-bba016309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tharunchandralingala-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Tharunchandralingala/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:tharunlingala6@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
 
@@ -50,7 +51,11 @@ looking_for: Software Engineering roles — full-stack / backend
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
+
+<img src="https://github.com/7337475780.png" width="220" style="border-radius:50%;border:3px solid #8A2BE2;"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="100%"/>
 
@@ -117,7 +122,7 @@ Full-stack AI image generation platform with auth, prompt history, and Gemini-po
 
 `React` `Next.js` `Node.js` `MongoDB` `Gemini API`
 
-[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
+[**💻 View Repo**](https://github.com/7337475780/aiMagix)
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +140,7 @@ Modern messaging app engineered for real-time UX and accurate presence tracking.
 
 `React` `Socket.IO` `Node.js` `Express`
 
-[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
+[**💻 View Repo**](https://github.com/7337475780/WeConnect)
 
 </td>
 </tr>
@@ -155,7 +160,7 @@ Scalable backend service for extracting and serving video content at speed (Inst
 
 `Node.js` `Express` `yt-dlp` `Docker`
 
-[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
+[**💻 View Repo**](https://github.com/7337475780/InstaLoad)
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +176,7 @@ Converts natural language prompts into complete website layouts and content usin
 
 `React` `Gemini API` `OpenAI API`
 
-[**🔗 View Project**](https://tharunchandralingala-dev.vercel.app/#projects) · [**💻 GitHub**](https://github.com/7337475780)
+[**💻 View Repo**](https://github.com/7337475780/webGenie)
 
 </td>
 </tr>
@@ -196,6 +201,10 @@ Converts natural language prompts into complete website layouts and content usin
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=7337475780&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Tharunchandralingala?theme=dark&font=SF%20Pro%20Display&ext=heatmap" width="100%"/>
 
 </div>
 
@@ -234,8 +243,9 @@ Converts natural language prompts into complete website layouts and content usin
 
 **I'm actively open to full-stack / backend engineering roles.** Reach out — I reply fast.
 
-<a href="https://www.linkedin.com/in/tharun-lingala-bba016309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tharun-chandra-lingala-bba016309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tharunchandralingala-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Tharunchandralingala/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:tharunlingala6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
