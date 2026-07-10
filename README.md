@@ -57,7 +57,7 @@ looking_for: Software Engineering roles — full-stack / backend
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=7337475780&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=7337475780&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="100%"/>
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Converts natural language prompts into complete website layouts and content usin
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=7337475780&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2" height="180"/>
 
 <br/>
 
