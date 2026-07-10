@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Tharun%20Chandra%20Lingala&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend-Leaning%20Engineer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&duration=2600&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+production-grade+web+apps;Not+tutorials+%E2%80%94+real+products;Real-time+systems+%2B+AI+integrations;Currently+open+to+SDE+roles+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=2600&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+production-grade+web+apps;Not+tutorials+%E2%80%94+real+products;Real-time+systems+%2B+AI+integrations;Currently+open+to+SDE+roles+%F0%9F%9A%80" />
 
 <br/>
 
@@ -122,7 +122,7 @@ Full-stack AI image generation platform with auth, prompt history, and Gemini-po
 
 `React` `Next.js` `Node.js` `MongoDB` `Gemini API`
 
-[**💻 View Repo**](https://github.com/7337475780/ai-magix)
+[**💻 View Repo**](https://github.com/7337475780/aiMagix)
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ Modern messaging app engineered for real-time UX and accurate presence tracking.
 
 `React` `Socket.IO` `Node.js` `Express`
 
-[**💻 View Repo**](https://github.com/7337475780/weconnect)
+[**💻 View Repo**](https://github.com/7337475780/WeConnect)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ Scalable backend service for extracting and serving video content at speed (Inst
 
 `Node.js` `Express` `yt-dlp` `Docker`
 
-[**💻 View Repo**](https://github.com/7337475780/instaload)
+[**💻 View Repo**](https://github.com/7337475780/InstaLoad)
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ Converts natural language prompts into complete website layouts and content usin
 
 `React` `Gemini API` `OpenAI API`
 
-[**💻 View Repo**](https://github.com/7337475780/webgenie)
+[**💻 View Repo**](https://github.com/7337475780/webGenie)
 
 </td>
 </tr>
@@ -188,7 +188,7 @@ Converts natural language prompts into complete website layouts and content usin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7337475780&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2" height="180"/>
+<img src="https://streak-stats.demolab.com?user=7337475780&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2" height="180"/>
 
 <br/>
 
@@ -250,7 +250,15 @@ Converts natural language prompts into complete website layouts and content usin
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<table>
+<tr>
+<td align="center">
+
+💬 *"Consistency compounds. Small daily reps beat sporadic bursts of effort — every single time."*
+
+</td>
+</tr>
+</table>
 
 <br/>
 
